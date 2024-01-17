@@ -8,7 +8,7 @@ public class ReverseString
 		String str="kahdyevb";
 	
 		String reverse="";
-		/*
+		
 		int lenghtOfString=str.length();
 
 		for(int i=lenghtOfString-1;i>=0;i--)
@@ -17,7 +17,7 @@ public class ReverseString
 		}
 
 		System.out.println(reverse);
-      */
+      
 		
 		//char array
 		char a[]=str.toCharArray();
